@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "78ef9936ad2786178cf26b96",
+  "owner": "jdtknry",
+  "repo": "page-7623c9141012ca638d7fd7ca",
+  "title": "快银",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7623c9141012ca638d7fd7ca",
+      "a": "快银",
+      "b": "机场官网线路发布页",
+      "entity": "快银",
+      "brand": "快银",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "15a7d95c1c041d11140b40b990db2a9f1057e5ff9c1d529f4468703d54a0949e",
+      "content": {
+        "primary_entity": "快银",
+        "keyword1": "快银",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅后调整路由与代理模式。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "选择合适的套餐，完成客户端配置，即可开始使用快银加速。",
+          "AI_CLOSING_TITLE": "开始选择与配置",
+          "AI_DESCRIPTION": "，快银提供基础版、旗舰版与团队版三档套餐，覆盖每月 100GB 到 1000GB 流量，支持 3 至 20 台设备同时在线，旗舰版含 IPLC 专线游戏加速优化与流媒体解锁，团队版可定制企业路由并配备专属客户经理。按设备系统选择对应客户端，导入订阅即可使用。",
+          "AI_FAQ_ANSWER_1": "快银目前有基础版、旗舰版和团队版。基础版每月 15 元含 100GB 流量，旗舰版每月 35 元含 300GB 流量，团队版每月 85 元含 1000GB 流量，按年付均有优惠。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。可在客户端中查看当前在线设备数，需要更多设备时升级到更高套餐即可。",
+          "AI_FAQ_ANSWER_3": "通常按设备系统选择客户端即可，例如桌面系统与移动系统各有对应版本。导入订阅链接后，按客户端文档完成代理模式与路由设置。",
+          "AI_FAQ_ANSWER_4": "年付比月付更划算。基础版按年付 150 元，旗舰版 350 元，团队版 850 元，适合长期稳定使用的用户。",
+          "AI_FAQ_ANSWER_5": "根据设备数量和流量需求选择。个人使用选基础版或旗舰版，团队多人协作或需要定制路由时，团队版更合适。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "快银有哪些套餐可选？",
+          "AI_FAQ_QUESTION_2": "一个套餐可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "如何在客户端导入订阅？",
+          "AI_FAQ_QUESTION_4": "按年付和按月付有什么区别？",
+          "AI_FAQ_QUESTION_5": "怎样选择适合自己的套餐？",
+          "AI_FAQ_TITLE": "常见使用问题",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度了解快银套餐的差异。",
+          "AI_FEATURES_TITLE": "套餐核心差异",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，按用量选择不浪费。",
+          "AI_FEATURE_TEXT_2": "同时在线设备从 3 台到 20 台，个人、家庭和小团队都能找到合适档位。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 高带宽与定制路由。",
+          "AI_FEATURE_TITLE_1": "流量匹配用量",
+          "AI_FEATURE_TITLE_2": "设备数灵活",
+          "AI_FEATURE_TITLE_3": "线路分级选择",
+          "AI_GUIDE_INTRO": "从选套餐到完成客户端订阅配置，分三步操作。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "快银提供多档加速套餐，按流量与设备数区分，旗舰版与团队版在节点线路和带宽上更进一步。",
+          "AI_HERO_SUBTITLE": "按需选择加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按流量区分",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备",
+          "AI_HIGHLIGHT_3": "旗舰版含专线优化",
+          "AI_PLANS_INTRO": "基础版 15 元每月，旗舰版 35 元每月，团队版 85 元每月，按年付更划算。",
+          "AI_PLANS_TITLE": "套餐对比选择",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量，对比基础版、旗舰版与团队版的价格和权益。",
+          "AI_STEP_TEXT_2": "确认设备系统与同时在线数量要求，查看所选套餐是否满足适配条件。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅，参照客户端文档完成代理模式与路由配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "快银加速套餐一览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "il7xnqq.cn",
+    "host": "il7xnqq.cn"
+  },
+  "file_hashes": {
+    "index.html": "ee202c2437eadef74836881cae110226d600165c457c6a93cdda5dc521033599",
+    "sitemap.xml": "8b7d5ebb7f70509489317c4e3dabf83691495b412fcf0ed4d3c5e7d13ac2470f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "814951f149dfefb89a525cf4431ac8f3fe1b652e061ef64c8b0967b67a0d1bc5",
+    "robots.txt": "f5f90bbd9941ff01917a01a24d856245a9dd301f916f1c4cdce51ecd7144813b",
+    "e18a14b7cee8e5ea3b02817209a73b3f.txt": "14134b21829aea35658d5981984add202164a44606cce52377c17a8fa4426f27"
+  },
+  "revision": "289d6ce517390d4aca72b7a426f8f5adc555f0f4efc0bf4f15e6e9bcf33dbfad"
+}
